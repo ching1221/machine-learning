@@ -7,3 +7,5 @@ lm.py - Linear Regression
 lwlr.py - Locally Weighted Linear Regression
 
 sklearn_lm.py - Linear Regression using scikit learn 
+
+lm_best.py - the best model from Ridge Regression with cross-validation
